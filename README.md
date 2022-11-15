@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Calvinism11
 - 👀 I’m interested in cloud computing, machine learning, web developer.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, PHP, and Java
 - 💞️ I’m looking to collaborate on codecollab.io/calvin11
 - 📫 How to reach me discord:Calvin#8813 / codecollab.io/calvin11
